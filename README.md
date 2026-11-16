@@ -4,7 +4,7 @@
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Acessar_Dashboard-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://LzCmrv.github.io/focinho-pet-bi/dashboard_focinho.html)
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-10b981?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Stack-HTML5_%7C_Tailwind_CSS_%7C_JavaScript_%7C_Chart.js_%7C_SheetJS-0f172a?style=for-the-badge)
-
+Dashboard Criada em HTML, CSS,JS com ajuda do google Gemini para estudo e portfolio
 > **Resumo Executivo:** Projeto completo de **Business Intelligence (BI) e Análise de Dados** desenvolvido sobre uma base real de **2.341 pedidos** (21 SKUs e 6 categorias) do varejo pet entre **janeiro de 2025 e setembro de 2026**. A solução combina auditoria financeira, diagnóstico de anomalias operacionais e um **Dashboard Web Interativo** com filtros dinâmicos e ingestão direta de planilhas `.xlsx`/`.csv`.
 
 ---
