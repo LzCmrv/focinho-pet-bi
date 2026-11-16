@@ -1,7 +1,7 @@
 [readme_para_portf_lio_github_focinho_pet_bi.md](https://github.com/user-attachments/files/34889338/readme_para_portf_lio_github_focinho_pet_bi.md)
 # 🐾 Focinho Pet — Dashboard Executivo de Vendas, Rentabilidade & Logística Reversa
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Acessar_Dashboard-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://SEU-USUARIO.github.io/focinho-pet-bi/dashboard_focinho.html)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Acessar_Dashboard-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://LzCmrv.github.io/focinho-pet-bi/dashboard_focinho.html)
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-10b981?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Stack-HTML5_%7C_Tailwind_CSS_%7C_JavaScript_%7C_Chart.js_%7C_SheetJS-0f172a?style=for-the-badge)
 
